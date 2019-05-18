@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "main": "index.js",
+  "description": "A fake package used to wrap a specific version of a specific module.",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+  }
+}
